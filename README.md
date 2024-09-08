@@ -1,7 +1,3 @@
-Here's a refined README file for your **Airline-Data-Ingestion-Pipeline** project, complete with a well-structured story:
-
----
-
 # Airline Data Ingestion Pipeline
 
 Welcome to the **Airline Data Ingestion Pipeline** project! This project provides a robust, automated data ingestion pipeline for processing daily airline flight data, leveraging a range of AWS services. The aim is to showcase a scalable and reliable approach to managing data ingestion, transformation, and loading (ETL) in a data lake architecture.
